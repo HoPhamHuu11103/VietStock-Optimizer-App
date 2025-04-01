@@ -7,10 +7,15 @@ VietStock Optimizer App is a personal project developed to analyze and optimize 
 **Features**
 - **Stock Data Fetching:** Retrieve historical stock data from 2020 to 2024 via the vnstock API.
 - **Portfolio Optimization:** Implement three optimization algorithms:
-+ SLSQP (Sequential Least Squares Programming)
-+ SGD-Volatility (Stochastic Gradient Descent minimizing volatility)
-+ SGD-Sharpe (Stochastic Gradient Descent maximizing Sharpe Ratio)
-+ Compare portfolio returns against the VN-Index benchmark.
+
+SLSQP (Sequential Least Squares Programming)
+
+SGD-Volatility (Stochastic Gradient Descent minimizing volatility)
+
+SGD-Sharpe (Stochastic Gradient Descent maximizing Sharpe Ratio)
+
+Compare portfolio returns against the VN-Index benchmark.
+
 - **Financial Analysis:** Generate detailed reports including balance sheets, income statements, cash flows, and financial ratios (yearly and quarterly).
 - **Technical Analysis:** Support multiple indicators (SMA, EMA, RSI, MACD, Bollinger Bands, etc.) with customizable timeframes.
 - **Data Visualization:** Interactive charts (line, pie, bar, heatmap) to display stock trends, portfolio performance, and correlations.
